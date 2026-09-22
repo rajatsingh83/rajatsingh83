@@ -1,18 +1,152 @@
-# 💫 About Me:
-👋 About Me<br>I'm currently working on Data Science, Machine Learning & Python-based projects.<br>I'm looking to collaborate on Data Science, AI/ML, Data Analytics and open-source projects.<br>I'm looking for help with Advanced Machine Learning, real-world datasets and building production-ready projects.<br>I'm currently learning Python, SQL, Machine Learning, Data Analytics, Power BI & Tableau.<br>Ask me about Python, SQL, Data Analytics, AI/ML and my journey into Data Science.<br>Fun fact: I enjoy turning raw data into meaningful insights and learning something new every day. 🚀
+# 👋 Hi, I'm Rajat Singh
 
+### 🎓 B.Tech Student | Aspiring Data Scientist | AI & ML Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-singh2006) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/the_rajatsingh1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatsingh40067@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rajatsingh83&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rajatsingh83&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajatsingh83&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rajatsingh83&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rajatsingh83&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech Student at **Mahatma Jyotiba Phule Rohilkhand University**
+- 📊 Aspiring **Data Scientist**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🐍 Working with **Python & SQL**
+- 📈 Interested in **Data Analytics & Data Visualization**
+- 🎨 Also passionate about **Canva & Graphic Designing**
+- 🚀 Currently building projects to strengthen my Data Science skills
+
+---
+
+## 🔭 I'm Currently Working On
+
+- 📊 Data Science & Data Analytics Projects
+- 🤖 Machine Learning Projects
+- 🐍 Python-based projects
+- 🗄️ SQL & Database Projects
+- 📈 Interactive dashboards and data visualizations
+
+---
+
+## 🌱 I'm Currently Learning
+
+- Python for Data Science
+- Statistics & Exploratory Data Analysis
+- Machine Learning
+- Advanced SQL
+- Power BI & Tableau
+- Generative AI
+
+---
+
+## 🤝 I'm Looking to Collaborate On
+
+- Data Science Projects
+- AI/ML Projects
+- Data Analytics Projects
+- Open Source Projects
+- Beginner-friendly Tech Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Database
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+**Python • SQL • Git • GitHub**
+
+### 📊 Data Science & Analytics
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+</p>
+
+**NumPy • Pandas • Matplotlib • Jupyter Notebook • Scikit-learn**
+
+### 📈 Visualization & Design
+
+**Power BI • Tableau • Microsoft Excel • Canva**
+
+---
+
+## 📂 Featured Projects
+
+### 🏏 Cricket Management System
+A database-driven project designed to manage cricket-related information and operations.
+
+### 📊 Data Analytics Projects
+Working on real-world datasets to perform data cleaning, analysis and visualization.
+
+### 🤖 Machine Learning Projects
+Building beginner-to-intermediate machine learning projects using Python and Scikit-learn.
+
+> 🚀 More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatsingh83&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsingh83&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajatsingh83&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajatsingh83/rajatsingh83/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rajatsingh40067@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Ask Me About
+
+**Python • SQL • Data Analytics • AI/ML • Power BI • Tableau • Canva**
+
+---
+
+### ⚡ Fun Fact
+
+**I enjoy turning raw data into meaningful insights and learning something new every day. 🚀**
+
+---
+
+⭐ **Thanks for visiting my profile!**
