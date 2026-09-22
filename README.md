@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>I'm currently working on<br>Data Science, Machine Learning & Python-based projects.<br>I'm looking to collaborate on<br>Data Science, AI/ML, Data Analytics and open-source projects.<br>I'm looking for help with<br>Advanced Machine Learning, real-world datasets and building production-ready projects.<br>I'm currently learning<br>Python, SQL, Machine Learning, Data Analytics, Power BI & Tableau.<br>Ask me about<br>Python, SQL, Data Analytics, AI/ML and my journey into Data Science.<br>Fun fact<br>I enjoy turning raw data into meaningful insights and learning something new every day. 🚀
+👋 About Me<br>I'm currently working on Data Science, Machine Learning & Python-based projects.<br>I'm looking to collaborate on Data Science, AI/ML, Data Analytics and open-source projects.<br>I'm looking for help with Advanced Machine Learning, real-world datasets and building production-ready projects.<br>I'm currently learning Python, SQL, Machine Learning, Data Analytics, Power BI & Tableau.<br>Ask me about Python, SQL, Data Analytics, AI/ML and my journey into Data Science.<br>Fun fact: I enjoy turning raw data into meaningful insights and learning something new every day. 🚀
 
 
 ## 🌐 Socials:
