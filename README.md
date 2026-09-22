@@ -1,152 +1,54 @@
-# 👋 Hi, I'm Rajat Singh
+# 🌟 About Me
 
-### 🎓 B.Tech Student | Aspiring Data Scientist | AI & ML Enthusiast
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajatsingh83&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+👋 I'm **Rajat Singh**, a B.Tech student and **Aspiring Data Scientist** passionate about **Data Science, AI/ML, Data Analytics & Creative Designing**. I'm currently working with Python, SQL and data analytics tools, building real-world projects and continuously learning Machine Learning. I also enjoy **Canva & AI-based designing**. 🚀
 
 ---
 
-## 🧑‍💻 About Me
+## 🌐 Socials:
 
-- 🎓 B.Tech Student at **Mahatma Jyotiba Phule Rohilkhand University**
-- 📊 Aspiring **Data Scientist**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🐍 Working with **Python & SQL**
-- 📈 Interested in **Data Analytics & Data Visualization**
-- 🎨 Also passionate about **Canva & Graphic Designing**
-- 🚀 Currently building projects to strengthen my Data Science skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-singh2006/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajatsingh40067@gmail.com)
 
 ---
 
-## 🔭 I'm Currently Working On
+## 💻 Tech Stack:
 
-- 📊 Data Science & Data Analytics Projects
-- 🤖 Machine Learning Projects
-- 🐍 Python-based projects
-- 🗄️ SQL & Database Projects
-- 📈 Interactive dashboards and data visualizations
-
----
-
-## 🌱 I'm Currently Learning
-
-- Python for Data Science
-- Statistics & Exploratory Data Analysis
-- Machine Learning
-- Advanced SQL
-- Power BI & Tableau
-- Generative AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🤝 I'm Looking to Collaborate On
-
-- Data Science Projects
-- AI/ML Projects
-- Data Analytics Projects
-- Open Source Projects
-- Beginner-friendly Tech Projects
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Database
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</p>
-
-**Python • SQL • Git • GitHub**
-
-### 📊 Data Science & Analytics
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
-</p>
-
-**NumPy • Pandas • Matplotlib • Jupyter Notebook • Scikit-learn**
-
-### 📈 Visualization & Design
-
-**Power BI • Tableau • Microsoft Excel • Canva**
-
----
-
-## 📂 Featured Projects
-
-### 🏏 Cricket Management System
-A database-driven project designed to manage cricket-related information and operations.
-
-### 📊 Data Analytics Projects
-Working on real-world datasets to perform data cleaning, analysis and visualization.
-
-### 🤖 Machine Learning Projects
-Building beginner-to-intermediate machine learning projects using Python and Scikit-learn.
-
-> 🚀 More projects coming soon...
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatsingh83&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsingh83&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajatsingh83&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsingh83&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajatsingh83&theme=tokyonight&hide_border=true" />
-</p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajatsingh83/rajatsingh83/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rajatsingh40067@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=rajatsingh83&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 💡 Ask Me About
+### 🚀 Currently Learning
+**Machine Learning • Advanced SQL • Data Analytics • Power BI • AI/ML**
 
-**Python • SQL • Data Analytics • AI/ML • Power BI • Tableau • Canva**
-
----
-
-### ⚡ Fun Fact
-
-**I enjoy turning raw data into meaningful insights and learning something new every day. 🚀**
-
----
-
-⭐ **Thanks for visiting my profile!**
+### 💡 Fun Fact
+**I love turning raw data into meaningful insights & creative visuals. 🎨📊**
